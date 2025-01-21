@@ -111,7 +111,6 @@ O script apresentado abaixo SQL cria um banco de dados relacional para um sistem
 - O esquema relacional pode ser refletido em diagramas visuais para melhor entendimento dos relacionamentos.  
 - **Relatórios Pendentes:** Finalizar o diagrama para refletir todas as tabelas e suas relações.
 
-
 ## Considerações Finais
 
 Este banco de dados oferece suporte às principais operações de um sistema de e-commerce. Ele inclui validações robustas com **constraints** para garantir a consistência dos dados. Ainda há espaço para melhorias e extensões, como:
