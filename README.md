@@ -108,8 +108,10 @@ O script apresentado abaixo SQL cria um banco de dados relacional para um sistem
 
 ## Diagrama de Esquema Relacional
 
-- O esquema relacional pode ser refletido em diagramas visuais para melhor entendimento dos relacionamentos.  
-- **Relatórios Pendentes:** Finalizar o diagrama para refletir todas as tabelas e suas relações.
+- O esquema relacional deste banco de dados pode ser visualizado a seguir:
+
+![ecommerce_relational_schema](https://github.com/user-attachments/assets/ce7fc139-05c1-48e6-ae99-b20e40e339c2)
+
 
 ## Considerações Finais
 
