@@ -1,6 +1,6 @@
-# Criação de um Banco de dados relacional de um modelo de E-commerce
+# 💾 Criação de Banco de dados relacional de um modelo de E-commerce
 
-## Estrutura desenvolvida como desafio de projeto do *Bootcamp* Suzano - Análise de Dados com Power BI - DIO
+## A Estrutura deste banco foi desenvolvida como desafio de projeto do *Bootcamp* Suzano - Análise de Dados com Power BI - DIO
 
 
 ## Objetivo
@@ -13,7 +13,7 @@ O script apresentado abaixo SQL cria um banco de dados relacional para um sistem
 
 -   **`ecommerce`**: O banco de dados principal criado para armazenar todas as tabelas relacionadas ao sistema.
 
-### Tabelas
+### 📂Tabelas
 
 1.  **`clients`**
     -   **Descrição**: Armazena informações sobre os clientes do sistema.
@@ -86,7 +86,7 @@ O script apresentado abaixo SQL cria um banco de dados relacional para um sistem
     -   **Constraints**:
         -   `UNIQUE`: Garante unicidade do CNPJ e CPF.
 
-### Tabelas de Relacionamento
+### 🔀Tabelas de Relacionamento
 
 1.  **`productSeller`**
     
@@ -106,17 +106,17 @@ O script apresentado abaixo SQL cria um banco de dados relacional para um sistem
     -   Relaciona produtos com fornecedores.
     -   Chave primária composta por `idPsSupplier` e `idPsProduct`.
 
-## Diagrama de Esquema Relacional
+## 🔀 Diagrama de Esquema Relacional
 
 - O esquema relacional deste banco de dados pode ser visualizado a seguir:
 
 ![ecommerce_relational_schema](https://github.com/user-attachments/assets/ce7fc139-05c1-48e6-ae99-b20e40e339c2)
 
 
-## Considerações Finais
+## 💡Considerações Finais
 
 Este banco de dados oferece suporte às principais operações de um sistema de e-commerce. Ele inclui validações robustas com **constraints** para garantir a consistência dos dados. Ainda há espaço para melhorias e extensões, como:
 
-1.  **Implementação de triggers** para atualizar o estoque automaticamente.
-2.  **Criação de índices** para melhorar a performance de consultas frequentes.
-3.  **Documentação visual** para facilitar o entendimento da estrutura do banco.
+1.  ✔️**Implementação de triggers** para atualizar o estoque automaticamente.
+2.  ✔️**Criação de índices** para melhorar a performance de consultas frequentes.
+3.  ✔️**Documentação visual** para facilitar o entendimento da estrutura do banco.
